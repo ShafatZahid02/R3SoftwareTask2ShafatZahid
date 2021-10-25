@@ -7,7 +7,6 @@ The output.py file recieves the controller input and formats the data into the r
     Because of this, the data from the client only sends PWM speed for each SIDE of the rover, as well as their
     directions. (Forward/Reverse represented as 'f' and 'r' respectively).
     Therefore we must add a copy of each side's PWM speed byte to send to each individual motor. Sends updates at a rate of 60 times/second
-   
     The input.py file takes in input from the controller and coverts it into 
     SDL2 controller converts native pygame joysticks into a GameController object standard with the SDL library.
     (https://wiki.libsdl.org/)

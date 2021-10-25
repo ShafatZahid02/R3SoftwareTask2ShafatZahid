@@ -17,3 +17,7 @@ The output.py file recieves the controller input and formats the data into the r
     however with the 'r' character along next to it to denote negative input.
     The SDL2 controller library allows for the usage of multiple controllers without having to alter the input.py code
     
+
+
+https://user-images.githubusercontent.com/73914750/138623347-fd9e7c4d-a441-4e5e-a658-7c403363b9fd.mp4
+
